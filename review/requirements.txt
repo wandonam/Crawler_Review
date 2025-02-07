@@ -1,8 +1,0 @@
-pandas
-selenium
-beautifulsoup4
-tqdm
-webdriver-manager
-scikit-learn
-matplotlib
-nltk
