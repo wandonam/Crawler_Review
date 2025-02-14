@@ -6,3 +6,10 @@ webdriver-manager
 scikit-learn
 matplotlib
 nltk
+fake-useragent
+seaborn
+transformers
+konlpy
+wordcloud
+torch
+tensorflow
